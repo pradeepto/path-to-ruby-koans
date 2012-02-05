@@ -1,3 +1,5 @@
+*  This repo is my attempt to walk the path of ruby koans aka path to enlightenment. I will commit and push as I progress.
+
 = EdgeCase Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
