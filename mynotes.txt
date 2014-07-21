@@ -1,1 +1,2 @@
 This is ruby koans.
+foo
